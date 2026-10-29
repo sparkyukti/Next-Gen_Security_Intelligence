@@ -1,0 +1,7 @@
+Linux telnetd
+PostgreSQL
+Apache jserv
+ProFTPD
+Postfix smtpd
+MySQL
+OpenSSH
