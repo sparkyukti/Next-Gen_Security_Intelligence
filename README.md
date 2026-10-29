@@ -1,5 +1,3 @@
-# Next-Gen_Security_Intelligence
-
 # Next-Gen Security Intelligence
 
 A Python-based security intelligence and vulnerability management tool that integrates local network scanning, Common Vulnerabilities and Exposures (CVE) knowledge graphs, and database utilities to analyze software assets and security risks.
